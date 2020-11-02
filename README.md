@@ -1,8 +1,6 @@
 
 # rodriguez-portfolio
- <p> Lutie Rodriguez's portfolio for Telling Stories with Data (F20) at Carnegie Mellon
-
-<img src="Lutie_photo.jpg" width="200" style="float:left"> </p>
+ <p> <img src="Lutie_photo.jpg" width="200" style="float:left"> Lutie Rodriguez's portfolio for Telling Stories with Data (F20) at Carnegie Mellon </p>
 
 # About me
 Hello! My name is Lutie Rodriguez (she/her) and I am a student in the Telling Stories with Data course. This is my second year as a Master of Arts Management student at Carnegie Mellon's Heinz College.  After graduation, I hope to help arts organizations communicate more effectively about themselves and about their impact. I am also interested in foundation work to ensure a sustainable future for the arts in the United States. Currently, I am the chief editor of the Arts Management and Technology Laboratory, a CMU-affiliated research center. My interests include cultural policy, technology adoption in the arts, music, and writing.
