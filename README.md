@@ -1,4 +1,4 @@
-<img src="Lutie_photo.jpg" width="250" style="float:left;padding:10px">
+<img src="Lutie_photo.jpg" width="300" style="float:left;padding:10px">
 
 # rodriguez-portfolio
 Lutie Rodriguez's portfolio for Telling Stories with Data (F20) at Carnegie Mellon
