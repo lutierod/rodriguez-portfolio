@@ -12,4 +12,4 @@ I am passionate about helping arts organizations communicate more effectively, i
 # Portfolio
 Check back later to see what I create in class! 
 
-[First data visualization](/dataviz1.md)
+[Data Visualization 1](/dataviz1.md)
