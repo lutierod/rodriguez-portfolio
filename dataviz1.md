@@ -1,4 +1,4 @@
- # Visualizing government debt
+# Visualizing government debt
 
 <iframe src="https://data.oecd.org/chart/69rM" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69rM" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
@@ -13,7 +13,7 @@ Above, the line charts in this grid display the debt-to-GDP ratio for 35 countri
 The line chart above can be toggled to show the progression of the debt-to-GDP ratio from 1995 to 2019 for 35 countries.
 
 
- # Discussion
+# Discussion
 
 The data used in each of these visualizations comes from the Organization for Economic Co-operation and Development's data on general government debt. Each of these charts uses the debt-to-GDP ratio, which measures the gross debt of the general government as a percentage of its GDP. According to the OECD's website, the ratio is a key indicator for the sustainability of government finance.
 
