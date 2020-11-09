@@ -10,6 +10,9 @@ Above, each of the line charts in this grid display the debt-to-GDP ratio for 35
 
 The line chart above can be toggled to show the change in the debt-to-GDP ratio from 1995 to 2019 for 35 countries.
 
+
+**Discussion**
+
 The first bar chart only shows the country’s debt-to-GDP ratio for 2018. It allows the viewer to compare countries’ debt side by side for that year. The next two visualizations both display the debt-to-GDP ratio over time. The grid of line charts lets the viewer compare the general trends from each of the countries and provides for easy comparison since each chart uses the same scale. Because the third chart allows the viewer to toggle between different countries, they can view the progression of each country’s debt-to-GDP ratio up close. Each chart, however, has a different scale on the y axis so it does not allow for easy comparison. 
 
 I chose the third visualization because, from the grid of line charts, it was hard to view details about the numbers from the charts since they are so small. The line chart that I used for the third visualization allows users to see the same data as was in the grid, just on a larger scale and specific to each country. 
