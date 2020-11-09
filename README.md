@@ -10,6 +10,4 @@ Hello! My name is Lutie Rodriguez (she/her) and I am a student in the Telling St
 I am passionate about helping arts organizations communicate more effectively, including through data. I want to learn the tools that make more impactful data visualizations for both internal and external use. One of my undergraduate degrees was in writing, so I am excited to discover how to apply those communication skills to data visualization. 
 
 # Portfolio
-Check back later to see what I create in class! 
-
-[Data Visualization 1](/dataviz1.md)
+[Visualizing government debt](/dataviz1.md)
