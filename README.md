@@ -11,3 +11,5 @@ I am passionate about helping arts organizations communicate more effectively, i
 
 # Portfolio
 [Visualizing government debt](/dataviz1.md)
+
+[Data visualization 2](/dataviz2.md) 
