@@ -1,5 +1,7 @@
 # Original visualization
+<div>
 <img src="original.png" width=400>
+</div>
 Source: [Tulsa Health Department](https://www.tulsa-health.org/coronavirus-disease-2019-covid-19/tulsa-county-covid-19-data)
 
 # Process
