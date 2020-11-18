@@ -9,7 +9,7 @@ Source: [Tulsa Health Department](https://www.tulsa-health.org/coronavirus-disea
 ## Process
 
 ### Summary
-After completing the critique, the biggest problems I identified with the original visualization were readability and clarity. I identified the aspects that were contributing to that—bars that were close together, the “trend” line, and x-axis labels—and started brainstorming ways to improve those. While sketching, I thought about the information that was most important to include and if the stacked bar chart was the most effective type of data visualization. Because the original visualization had seemed cluttered, I started by wireframing a table so that I could easily include all the same data. 
+After completing the critique, the biggest problems I identified with the original visualization were readability and clarity. I identified the aspects that were contributing to that—bars that were close together, the “trend” line, and x-axis labels—and started brainstorming ways to improve those. While sketching, I thought about the information that was most important to include and if the stacked bar chart was the most effective type of data visualization. Because the original visualization had seemed cluttered, I started by wireframing a table that could easily include all the same data. 
 
 ### Wireframe 1
 <div>
