@@ -9,6 +9,15 @@ Source: [Tulsa Health Department](https://www.tulsa-health.org/coronavirus-disea
 ## Process
 
 ### Wireframes
+<div>
+<img src="1.png" width=400>
+</div>
+<div>
+<img src="2.jpg" width=400>
+</div>
+<div>
+<img src="3.jpg" width=400>
+</div>
 
 ### Summary
 After completing the critique, the biggest problems I identified with the original visualization were readability and clarity. I identified the aspects that were contributing to that—bars that were close together, the “trend” line, and x-axis labels—and started brainstorming ways to improve those. While sketching, I thought about the information that was most important to include and if the stacked bar chart was the most effective type of data visualization. Because the original visualization had seemed cluttered, I started by wireframing a table so that I could easily include all the same data. After completing the table, I realized that the visual aspect of the original was important and I did not want to remove viewers’ ability to visually compare case numbers by height and proportion. I sketched two other alternatives: a stacked column chart similar to the original and a grid of column charts. My sketch of the stacked column chart was organized by zip code and had more space between the bars. The grid chart had four smaller charts: one for total Covid cases, deaths, recovered, and active cases.
