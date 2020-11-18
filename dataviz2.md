@@ -6,10 +6,12 @@
 </div>
 Source: [Tulsa Health Department](https://www.tulsa-health.org/coronavirus-disease-2019-covid-19/tulsa-county-covid-19-data)
 
+The visualization I chose to redesign is the chart above of Covid-19 cases by zip codes from the Tulsa Health Department's dashboard. I chose this one because, when I first looked at it, it was hard for me to determine what its message was without zooming in or hovering over the sections of the bars to find the values. Because Covid-19 data should be easily accessible to the public, I thought it was important to redesign the chart for clarity.
+
 ## Process
 
 ### Summary
-After completing the critique, the biggest problems I identified with the original visualization were readability and clarity. I identified the aspects that were contributing to that—bars that were close together, the “trend” line, and x-axis labels—and started brainstorming ways to improve those. While sketching, I thought about the information that was most important to include and if the stacked bar chart was the most effective type of data visualization. Because the original visualization had seemed cluttered, I started by wireframing a table that could easily include all the same data. 
+After completing my critique of the visualization, the biggest problems I identified with the original visualization were readability and clarity. I identified the aspects that were contributing to that—bars that were close together, the “trend” line, and x-axis labels—and started brainstorming ways to improve those. While sketching, I thought about the information that was most important to include and if the stacked bar chart was the most effective type of data visualization. Because the original visualization had seemed cluttered, I started by wireframing a table that could easily include all the same data. 
 
 ### Wireframe 1
 <div>
