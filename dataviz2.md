@@ -13,10 +13,10 @@ Source: [Tulsa Health Department](https://www.tulsa-health.org/coronavirus-disea
 <img src="1.png" width=400>
 </div>
 <div>
-<img src="2.jpg" width=400>
+<img src="2.jpeg" width=400>
 </div>
 <div>
-<img src="3.jpg" width=400>
+<img src="3.jpeg" width=400>
 </div>
 
 ### Summary
