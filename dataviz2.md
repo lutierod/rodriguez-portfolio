@@ -9,12 +9,15 @@ Source: [Tulsa Health Department](https://www.tulsa-health.org/coronavirus-disea
 ## Process
 
 ### Wireframes
+**Sketch 1**
 <div>
 <img src="1.png" width=400>
 </div>
+**Sketch 2**
 <div>
 <img src="2.jpeg" width=400>
 </div>
+**Sketch 3**
 <div>
 <img src="3.jpeg" width=400>
 </div>
