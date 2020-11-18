@@ -8,10 +8,16 @@ Source: [Tulsa Health Department](https://www.tulsa-health.org/coronavirus-disea
 
 ## Process
 
+### Summary
+After completing the critique, the biggest problems I identified with the original visualization were readability and clarity. I identified the aspects that were contributing to that—bars that were close together, the “trend” line, and x-axis labels—and started brainstorming ways to improve those. While sketching, I thought about the information that was most important to include and if the stacked bar chart was the most effective type of data visualization. Because the original visualization had seemed cluttered, I started by wireframing a table so that I could easily include all the same data. 
+
 ### Wireframe 1
 <div>
 <img src="1.png" width=400>
 </div>
+
+After completing the table, I realized that the visual aspect of the original was important and I did not want to remove viewers’ ability to visually compare case numbers by height and proportion. I sketched two other alternatives: a stacked column chart similar to the original and a grid of column charts. My sketch of the stacked column chart was organized by zip code and had more space between the bars. The grid chart had four smaller charts: one for total Covid cases, deaths, recovered, and active cases.
+
 ### Wireframe 2
 <div>
 <img src="2.jpeg" width=400>
@@ -20,9 +26,6 @@ Source: [Tulsa Health Department](https://www.tulsa-health.org/coronavirus-disea
 <div>
 <img src="3.jpeg" width=400>
 </div>
-
-### Summary
-After completing the critique, the biggest problems I identified with the original visualization were readability and clarity. I identified the aspects that were contributing to that—bars that were close together, the “trend” line, and x-axis labels—and started brainstorming ways to improve those. While sketching, I thought about the information that was most important to include and if the stacked bar chart was the most effective type of data visualization. Because the original visualization had seemed cluttered, I started by wireframing a table so that I could easily include all the same data. After completing the table, I realized that the visual aspect of the original was important and I did not want to remove viewers’ ability to visually compare case numbers by height and proportion. I sketched two other alternatives: a stacked column chart similar to the original and a grid of column charts. My sketch of the stacked column chart was organized by zip code and had more space between the bars. The grid chart had four smaller charts: one for total Covid cases, deaths, recovered, and active cases.
 
 I showed all three of these options to two other people. Both identified that the table was not engaging. Person 1 thought the grid of charts wireframe was most visually appealing, but identified that having a grid of charts, each showing data for all 42 zip codes, might look cluttered (which it did). Person 2 was unsure about what data the grid of charts was displaying as compared to the original and thought the data displayed on its own wasn’t as impactful as seeing it as a proportion of the total cases. For the stacked bar chart—which I ultimately chose—person 1 suggested a vertical presentation so that it would look less cramped while allowing people to scroll to see all the bars. 
 
