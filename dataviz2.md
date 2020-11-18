@@ -13,7 +13,7 @@ After completing the critique, the biggest problems I identified with the origin
 
 ### Wireframe 1
 <div>
-<img src="1.png" width=400>
+<img src="1.png" width=500>
 </div>
 
 After completing the table, I realized that the visual aspect of the original was important and I did not want to remove viewers’ ability to visually compare case numbers by height and proportion. I sketched two other alternatives: a stacked column chart similar to the original and a grid of column charts. My sketch of the stacked column chart was organized by zip code and had more space between the bars. The grid chart had four smaller charts: one for total Covid cases, deaths, recovered, and active cases.
