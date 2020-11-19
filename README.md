@@ -13,3 +13,5 @@ I am passionate about helping arts organizations communicate more effectively, i
 [Visualizing government debt](/dataviz1.md)
 
 [Critique by design](/dataviz2.md) 
+
+[Final Project: Part 1](/final-project.md) 
