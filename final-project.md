@@ -5,7 +5,7 @@ In response to the Covid-19 pandemic, many arts organizations have turned to onl
 ## Setup 
 In response to the Covid-19 pandemic, many arts organizations have turned to online content as a way to engage with their patrons when gathering in person is not feasible.
 
-<img src="arts.jpg" width="250">
+<img src="arts.jpg" width="400">
 
 ## Conflict 
 Because of the digital divide in the United States, not everyone has access to these online resources
