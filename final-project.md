@@ -9,7 +9,7 @@ In response to the Covid-19 pandemic, many arts organizations have turned to onl
 
 <img src="arts.jpg" width="500">
 
-**Conflict:** Because of the digital divide in the United States, not everyone has access to these online resources
+**Conflict:** Because of the digital divide in the United States, not everyone has access to these online resources.
 
 <div> <img src="dots.jpg" width="500"> </div>
 
