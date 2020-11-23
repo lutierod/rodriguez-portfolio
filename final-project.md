@@ -1,4 +1,4 @@
-# The Digital Divide's Impact on Arts Participation
+# The Digital Divide's Impact on Arts Participation: Part I
 
 ## Summary
 In response to the Covid-19 pandemic, many arts organizations have turned to online platforms to continue to provide access to their work while people cannot gather in person. Many have indicated that this generally allows increased access to the organization since ticket prices and physical barriers are limited. Internet access, however, is not as universal as many arts administrators may think. Through my final project, I want to show the "digital divide" that exists in the United States and how it impacts people’s access to online content, encouraging arts organizations to find alternatives to engage the community as the pandemic continues. 
