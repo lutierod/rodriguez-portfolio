@@ -11,7 +11,7 @@ The subjects I ended up with were:
 
 ## Inteview script
 
-**Intro:** My goal today is to get feedback on a data-based web story I'm creating. I’m talking to people to see what makes sense and what’s confusing. I'm still working on the design elements, but the general outline of the story and visualizations are there. All feedback is anonymous, and the total process should take less than 15 minutes of your time.  
+**Intro:** My goal today is to get feedback on a data-based web story I'm creating. I’m talking to people to see what makes sense and what’s confusing. I'm still working on the design elements, but the general outline of the story and visualizations are there. All feedback is anonymous, and the total process should take less than 15 minutes of your time. I've sent you a link to the story if you want to open it and scan through it. 
 
 **Questions:** 
 - In your own words, what do you think this story is about?
@@ -21,4 +21,7 @@ The subjects I ended up with were:
 - Did the story make you want to act?
 - Do you have any additional comments? 
 
-**Conclusion:** Thank you for your time! Do you have any questions about the project for me? 
+**Wrap-up:** Thank you for your time! Do you have any questions about the project for me? 
+
+## Findings
+Going into this, I think I had gotten too much in my head about the story making sense and following a logical progression. But, most of the feedback had to do wth the examples I used. My subjects were more interested in how solutions could be implemented. 
