@@ -15,3 +15,5 @@ I am passionate about helping arts organizations communicate more effectively, i
 [Critique by design](/dataviz2.md) 
 
 [Final Project: Part 1](/final-project.md) 
+
+[Final Project: Part 2](/final-project.md)
