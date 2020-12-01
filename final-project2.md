@@ -25,3 +25,8 @@ The subjects I ended up with were:
 
 ## Findings
 Going into this, I think I had gotten too much in my head about the story making sense and following a logical progression. But, most of the feedback had to do wth the examples I used. My subjects were more interested in how solutions could be implemented. 
+
+Whenever we did peer reviews in class, I got a few comments on my map visualization being a bit confusing because of the key and the fact that it automatically Zoomed to Iceland on the page. I made a few adjustments before including it in my storyboard, but a couple of my subjects still had questions specifically about it. 
+
+## Going forward
+
