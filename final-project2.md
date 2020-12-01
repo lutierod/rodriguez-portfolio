@@ -8,3 +8,17 @@ The subjects I ended up with were:
 1. Woman in her 20s with a background in performing arts who is in the arts management field and currently interns for a visual arts-based education nonprofit
 2. Woman in her 20s in the arts management field who works in the visual arts sector and has a background in museums
 3. Man in his 30s who is a musician and teaching artist
+
+## Inteview script
+
+**Intro:** My goal today is to get feedback on a data-based web story I'm creating. I’m talking to people to see what makes sense and what’s confusing. I'm still working on the design elements, but the general outline of the story and visualizations are there. All feedback is anonymous, and the total process should take less than 15 minutes of your time.  
+
+**Questions:** 
+- In your own words, what do you think this story is about?
+- Who do you think is the intended audience?
+- Was anything about the story confusing?
+- Once you finished, was there anything you wanted to know more about?
+- Did the story make you want to act?
+- Do you have any additional comments? 
+
+**Conclusion:** Thank you for your time! Do you have any questions about the project for me? 
