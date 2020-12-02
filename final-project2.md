@@ -30,7 +30,7 @@ Related to specifics about my data visualizations, feedback indicated that a few
 
 My interviewees were conflicted on whether or not the story made them want to act.
 
-<img src="feedback.png" width="100%" style="float:left;padding:10px">
+<img src="feedback2.png" width="100%" style="float:left;padding:10px">
 
 ## Going forward
 From this feedback, I am going to make the following adjustments:
