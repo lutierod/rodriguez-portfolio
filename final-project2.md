@@ -34,5 +34,5 @@ Related to specifics about my data visualizations, feedback indicated that a few
 From this feedback, I am going to make the following adjustments:
 1. Give more specific examples and strategies for implementing safe, offline artistic experiences. I will also think of ways I can use visualizations, maybe using Infogram, to convey these.
 2. Clean up the vizualizations I do have based on feedback. The map of rural residents with broadband access seems to be a common point of confusion, so I am going to rethink if that is working or if it just needs more edits.
-3. 
+3. Enhance design and organization. Within the feedback, someone recommended emphasizing important numbers with text formatting, which I plan on doing. I am also going to rethink where I put the paragraphs of description based on the feedback to put visualizations first followed by the paragraph describing them. 
 
