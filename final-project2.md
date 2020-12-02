@@ -28,5 +28,7 @@ Going into this, I think I had gotten too much in my head about the story making
 
 Whenever we did peer reviews in class, I got a few comments on my map visualization being a bit confusing because of the key and the fact that it automatically Zoomed to Iceland on the page. I made a few adjustments before including it in my storyboard, but a couple of my subjects still had questions specifically about it. 
 
+<img src="feedback.png" style="float:left;padding:10px">
+
 ## Going forward
 
