@@ -24,11 +24,15 @@ The subjects I ended up with were:
 **Wrap-up:** Thank you for your time! Do you have any questions about the project for me? 
 
 ## Findings
-Going into this, I think I had gotten too much in my head about the story making sense and following a logical progression. But, most of the feedback had to do wth the examples I used. My subjects were more interested in how solutions could be implemented. 
+Going into this, I think I had gotten too much in my head about the story making sense and following a logical progression. But, most of the feedback had to do wth the examples I used at the end of the story to demonstrate alternatives for online content. Other feedback included the way I ordered data vizualizations and the paragraphs relating to them.
 
-Whenever we did peer reviews in class, I got a few comments on my map visualization being a bit confusing because of the key and the fact that it automatically Zoomed to Iceland on the page. I made a few adjustments before including it in my storyboard, but a couple of my subjects still had questions specifically about it. 
+Related to specifics about my data visualizations, feedback indicated that a few needed revisions for colors and labeling. Whenever we did peer reviews in class, I got a few comments on my map visualization being a bit confusing because of the key and the fact that it automatically zoomed to Iceland on the page. I made a few adjustments before including it in my storyboard, but a couple of my subjects still had questions about the scale and labels on the key since the values are in decimals instead of percentages.
 
 <img src="feedback.png" style="float:left;padding:10px">
 
 ## Going forward
+From this feedback, I am going to make the following adjustments:
+1. Give more specific examples and strategies for implementing safe, offline artistic experiences. I will also think of ways I can use visualizations, maybe using Infogram, to convey these.
+2. Clean up the vizualizations I do have based on feedback. The map of rural residents with broadband access seems to be a common point of confusion, so I am going to rethink if that is working or if it just needs more edits.
+3. 
 
