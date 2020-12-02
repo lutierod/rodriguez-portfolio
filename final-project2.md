@@ -28,6 +28,8 @@ Going into this, I think I had gotten too much in my head about the story making
 
 Related to specifics about my data visualizations, feedback indicated that a few needed revisions for colors and labeling. Whenever we did peer reviews in class, I got a few comments on my map visualization being a bit confusing because of the key and the fact that it automatically zoomed to Iceland on the page. I made a few adjustments before including it in my storyboard, but a couple of my subjects still had questions about the scale and labels on the key since the values are in decimals instead of percentages.
 
+My interviewees were conflicted on whether or not the story made them want to act.
+
 <img src="feedback.png" style="float:left;padding:10px">
 
 ## Going forward
