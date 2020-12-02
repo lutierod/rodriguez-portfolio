@@ -2,7 +2,7 @@
 [Shorthand: The Digital Divide's Impact on Arts Participation](https://preview.shorthand.com/dLt0DGBx5VIh0FkV)
 
 # User research protocol
-I have a fairly specific target audience for my story: arts administrators who are working in some capacity with adapting programming for the pandemic environment. Because of this, I wanted to interview people for my research who are in that target audience, or at least understood the considerations involved in that type of role. I also know that the programming museums have to adapt to the pandemic world is very different from performing arts programming, so I wanted to get representatives from both of these areas. Several of the examples in my project are also related to education, so I wanted to find at least one person with knowledge in that area.
+I have a fairly specific target audience for my story: arts administrators, especially those who are working in some capacity with adapting programming for the pandemic environment. Because of this, I wanted to interview people for my research who are in that target audience, or at least understood the considerations involved in that type of role. I also know that the programming museums have to adapt to the pandemic world is very different from performing arts programming, so I wanted to get representatives from both of these areas. Several of the examples in my project are also related to education, so I wanted to find at least one person with knowledge in that area.
 
 The subjects I ended up with were:
 1. Woman in her 20s in the arts management field who works in the visual arts sector and has a background in museums
@@ -26,7 +26,7 @@ The subjects I ended up with were:
 ## Findings
 Going into this, I think I had gotten too much in my head about the story making sense and following a logical progression. But, most of the feedback had to do wth the examples I used at the end of the story to demonstrate alternatives for online content. Other feedback included the way I ordered data vizualizations and the paragraphs relating to them.
 
-Related to specifics about my data visualizations, feedback indicated that a few needed revisions for colors and labeling. Whenever we did peer reviews in class, I got a few comments on my map visualization being a bit confusing because of the key and the fact that it automatically zoomed to Iceland on the page. I made a few adjustments before including it in my storyboard, but a couple of my subjects still had questions about the scale and labels on the key since the values are in decimals instead of percentages.
+Related to specifics about my data visualizations, feedback indicated that a few needed revisions for colors and labeling. Whenever we did peer reviews in class, I got some comments on my map visualization being a bit confusing because of the key and the fact that it automatically zoomed to Iceland on the page. I made a few adjustments before including it in my storyboard, but a couple of my subjects still had questions about the scale and labels on the key since the values are in decimals instead of percentages.
 
 My interviewees were conflicted on whether or not the story made them want to act.
 
