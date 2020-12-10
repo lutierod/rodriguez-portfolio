@@ -17,3 +17,5 @@ I am passionate about helping arts organizations communicate more effectively, i
 [Final Project: Part 1](/final-project.md) 
 
 [Final Project: Part 2](/final-project2.md)
+
+[Final Project: Part 3](/final-project3.md)
