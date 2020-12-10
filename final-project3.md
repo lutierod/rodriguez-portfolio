@@ -1,4 +1,4 @@
-**Link to final Shorthand story:** 
+**Link to final Shorthand story:** [The Digital Divide's Impact on Arts Participation] (https://carnegiemellon.shorthandstories.com/the-digital-divide-impact-on-arts-participation/index.html)
 
 ## Audience
 The audience for my story is people in the arts management sector who have some control over the organization's programming. This audience spans artistic disciplines: performing arts, museums, arts education organizations, etc. 
