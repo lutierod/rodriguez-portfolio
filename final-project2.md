@@ -1,5 +1,5 @@
 # Final Project Part 2: Storyboard and wireframes
-[Shorthand: The Digital Divide's Impact on Arts Participation](https://preview.shorthand.com/dLt0DGBx5VIh0FkV)
+Link to storyboard:[The Digital Divide's Impact on Arts Participation](https://preview.shorthand.com/dLt0DGBx5VIh0FkV)
 
 # User research protocol
 I have a fairly specific target audience for my story: arts administrators, especially those who are working in some capacity with adapting programming for the pandemic environment. Because of this, I wanted to interview people for my research who are in that target audience, or at least understood the considerations involved in that type of role. I also know that the programming museums have to adapt to the pandemic world is very different from performing arts programming, so I wanted to get representatives from both of these areas. Several of the examples in my project are also related to education, so I wanted to find at least one person with knowledge in that area.
