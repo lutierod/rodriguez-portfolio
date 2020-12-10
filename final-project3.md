@@ -1,7 +1,9 @@
 **Link to final Shorthand story:** 
 
 ## Audience
-The audience for my story 
+The audience for my story is people in the arts management sector who have some control over the organization's programming. As an arts management student who interned with an state arts advocacy organization over the summer, I know that many leaders in this sector have been struggling to find the resources—both time and money—to continue programming during the pandemicc. By nature of the Covid-19 crisis, organizatinos had to adapt suddenly. Now that we are nine months into the pandemic and organizations may have a better handle on their pandemic programming, I thought that arts leaders could have some capacity to consider how their programming adaptations have affected accessibility. Arts organizations care about their content reaching communities—an Americans for the Arts survey found that...
+
+To better connect with this audience 
 
 ## Final revisions
 
