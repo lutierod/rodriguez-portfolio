@@ -42,5 +42,5 @@ I will complete my final project by creating a story using Shorthand. I will use
 
 After doing more research into how some arts organizations have used "analog" methods to distribute their content and reading stories about this issue in contexts such as education, I will begin crafting the written story around my visualizations.  
 
-**[Final Project: Part 2](/final-project2.md)**
+**[Final Project: Part 2](/final-project2.md)** </br>
 **[Final Project: Part 3](/final-project3.md)**
