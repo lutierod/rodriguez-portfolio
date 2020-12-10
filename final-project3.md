@@ -21,5 +21,5 @@ One of my interviewees suggested segmenting the possible solutions so that arts 
 
 Although this was not specifically mentioned in feedback, I wanted my story to be more visually unified so I selected a color scheme and used images that fit my theme. I also unified the font used on the visualizations and throughout the story. 
 
-**[Final Project: Part 1](/final-project.md)** </br>
+**[Final Project: Part 1](/final-project.md)**  
 **[Final Project: Part 2](/final-project2.md)**
