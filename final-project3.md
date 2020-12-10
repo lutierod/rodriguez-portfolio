@@ -22,6 +22,7 @@ One of my interviewees suggested segmenting the possible solutions so that arts 
 Although this was not specifically mentioned in feedback, I wanted my story to be more visually unified so I selected a color scheme and used images that fit my theme. I also unified the font used on the visualizations and throughout the story. I used a mood board (shown below) to help me make those decisions.
 
 <div> <img src="Moodboard.png" width="500px" style="float:left;padding:10px"> </div>
+
 **[Final Project: Part 1](/final-project.md)**  
 **[Final Project: Part 2](/final-project2.md)** 
 
