@@ -19,7 +19,9 @@ For the map visualization, I made the key and each state's labeling more clear. 
 
 One of my interviewees suggested segmenting the possible solutions so that arts leaders viewing my story could find a solution relevant to them. I did this by dividing the example solutions I found into local, regional, national, reservation-based, and international. Following this list of sample solutions, I tried to make a clearer, more motivating call to action for arts managers since a couple of the people I interviewed were not motivated to act. I also made a second call to action for people who may have found the story but do not work in the arts sector. 
 
-Although this was not specifically mentioned in feedback, I wanted my story to be more visually unified so I selected a color scheme and used images that fit my theme. I also unified the font used on the visualizations and throughout the story. 
+Although this was not specifically mentioned in feedback, I wanted my story to be more visually unified so I selected a color scheme and used images that fit my theme. I also unified the font used on the visualizations and throughout the story. I used a mood board (shown below) to help me make those decisions.
+
+<img src="Moodboard.png" width="250" style="float:left;padding:10px">
 
 **[Final Project: Part 1](/final-project.md)**  
 **[Final Project: Part 2](/final-project2.md)**
