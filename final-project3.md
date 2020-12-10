@@ -26,4 +26,5 @@ Although this was not specifically mentioned in feedback, I wanted my story to b
 <div>
  
 **[Final Project: Part 1](/final-project.md)**  
-**[Final Project: Part 2](/final-project2.md)**
+**[Final Project: Part 2](/final-project2.md)** 
+</div> 
