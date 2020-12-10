@@ -1,4 +1,4 @@
-# Final Project Part 3
+# Final Project Part 3: Final Story and Revisions
 
 **Link to final Shorthand story:** [The Digital Divide's Impact on Arts Participation](https://carnegiemellon.shorthandstories.com/the-digital-divide-impact-on-arts-participation/index.html)
 
