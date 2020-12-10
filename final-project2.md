@@ -1,5 +1,5 @@
 # Final Project Part 2: Storyboard and wireframes
-Link to storyboard: [The Digital Divide's Impact on Arts Participation](https://preview.shorthand.com/dLt0DGBx5VIh0FkV)
+Link to storyboard: [The Digital Divide's Impact on Arts Participation](https://preview.shorthand.com/dLt0DGBx5VIh0FkV) *now revised*
 
 # User research protocol
 I have a fairly specific target audience for my story: arts administrators, especially those who are working in some capacity with adapting programming for the pandemic environment. Because of this, I wanted to interview people for my research who are in that target audience, or at least understood the considerations involved in that type of role. I also know that the programming museums have to adapt to the pandemic world is very different from performing arts programming, so I wanted to get representatives from both of these areas. Several of the examples in my project are also related to education, so I wanted to find at least one person with knowledge in that area.
@@ -38,6 +38,6 @@ From this feedback, I am going to make the following adjustments:
 2. Clean up the vizualizations I do have based on feedback. The map of rural residents with broadband access seems to be a common point of confusion, so I am going to rethink if that is working or if it just needs more edits.
 3. Enhance design and organization. Within the feedback, someone recommended emphasizing important numbers with text formatting, which I plan on doing. I am also going to rethink where I put the paragraphs of description based on the feedback to put visualizations first followed by the paragraph describing them. 
 
-**[Final Project: Part 1](/final-project.md)** </br>
+**[Final Project: Part 1](/final-project.md)**  
 **[Final Project: Part 3](/final-project3.md)**
 
