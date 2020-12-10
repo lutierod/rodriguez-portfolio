@@ -38,3 +38,6 @@ From this feedback, I am going to make the following adjustments:
 2. Clean up the vizualizations I do have based on feedback. The map of rural residents with broadband access seems to be a common point of confusion, so I am going to rethink if that is working or if it just needs more edits.
 3. Enhance design and organization. Within the feedback, someone recommended emphasizing important numbers with text formatting, which I plan on doing. I am also going to rethink where I put the paragraphs of description based on the feedback to put visualizations first followed by the paragraph describing them. 
 
+**[Final Project: Part 1](/final-project.md)** </br>
+**[Final Project: Part 3](/final-project3.md)**
+
